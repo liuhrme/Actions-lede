@@ -11,7 +11,7 @@ CONFIG_PACKAGE_luci-app-accesscontrol=y
 # CONFIG_PACKAGE_luci-app-adbyby-plus=y
 CONFIG_PACKAGE_luci-app-adguardhome=y
 # CONFIG_PACKAGE_luci-app-adguardhome_INCLUDE_binary is not set
-CONFIG_PACKAGE_luci-app-alist=y
+# CONFIG_PACKAGE_luci-app-alist is not set
 CONFIG_PACKAGE_luci-app-aliyundrive-fuse=y
 CONFIG_PACKAGE_luci-app-aliyundrive-webdav=y
 # CONFIG_PACKAGE_luci-app-autoreboot=y
@@ -29,7 +29,7 @@ CONFIG_PACKAGE_luci-app-diskman_INCLUDE_kmod_md_linear=y
 # CONFIG_PACKAGE_luci-app-lucky=y
 # CONFIG_PACKAGE_luci-app-mosdns=y
 CONFIG_PACKAGE_luci-app-netdata=y
-CONFIG_PACKAGE_luci-app-nfs=y
+# CONFIG_PACKAGE_luci-app-nfs is not set
 # CONFIG_PACKAGE_luci-app-nlbwmon is not set
 CONFIG_PACKAGE_luci-app-openclash=y
 # CONFIG_PACKAGE_luci-app-openvpn=y
@@ -38,23 +38,23 @@ CONFIG_PACKAGE_luci-app-openclash=y
 # CONFIG_PACKAGE_luci-app-pptp-server=y
 CONFIG_PACKAGE_luci-app-pushbot=y
 CONFIG_PACKAGE_luci-app-ramfree=y
-CONFIG_PACKAGE_luci-app-samba4=y
+# CONFIG_PACKAGE_luci-app-samba4 is not set
 CONFIG_PACKAGE_luci-app-smartdns=y
 # CONFIG_PACKAGE_luci-app-ssr-plus=y
 CONFIG_PACKAGE_luci-app-tencentddns=y
 # CONFIG_PACKAGE_luci-app-transmission is not set
 # CONFIG_PACKAGE_luci-app-ttyd=y
-CONFIG_PACKAGE_luci-app-udpxy=y
+# CONFIG_PACKAGE_luci-app-udpxy is not set
 CONFIG_PACKAGE_luci-app-unblockmusic=y
 CONFIG_PACKAGE_luci-app-unblockmusic_INCLUDE_UnblockNeteaseMusic_Go=y
 # CONFIG_PACKAGE_luci-app-unblockmusic_INCLUDE_UnblockNeteaseMusic_NodeJS is not set
 # CONFIG_PACKAGE_luci-app-vsftpd is not set
 CONFIG_PACKAGE_luci-app-vlmcsd=y
 # CONFIG_PACKAGE_luci-app-wireguard=y
-# CONFIG_PACKAGE_luci-app-wol=y
+# CONFIG_PACKAGE_luci-app-wol is not set
 CONFIG_PACKAGE_luci-app-wrtbwmon=y
-CONFIG_PACKAGE_luci-app-xlnetacc=y
-CONFIG_PACKAGE_luci-app-zerotier=y
+# CONFIG_PACKAGE_luci-app-xlnetacc is not set
+# CONFIG_PACKAGE_luci-app-zerotier is not set
 CONFIG_PACKAGE_luci-app-dockerman=y
 
 
